@@ -33,8 +33,8 @@ This project is a responsive, data-driven dashboard built with React, Tailwind C
 
 1. **Clone the repository:**  
    ```bash
-(https://github.com/git-shweta1010/dashboard-project)
-
+   git clone [https://github.com/yourusername/dashboard-project.git](https://github.com/git-shweta1010/dashboard-project)
+   cd dashboard-project
 2. **Install dependencies:**
    npm install
    # or
