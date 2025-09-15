@@ -1,0 +1,24 @@
+{
+  "tableData": [
+    { "id": 1, "name": "Alice", "email": "alice@example.com", "role": "Admin" },
+    { "id": 2, "name": "Bob",   "email": "bob@example.com",   "role": "User" },
+    { "id": 3, "name": "Carol", "email": "carol@example.com", "role": "Moderator" },
+    { "id": 4, "name": "Dave",  "email": "dave@example.com",  "role": "User" }
+  ],
+  "productSales": [
+    { "date": "2025-01-01", "name": "Product A", "value": 400 },
+    { "date": "2025-01-01", "name": "Product B", "value": 300 },
+    { "date": "2025-02-01", "name": "Product A", "value": 350 },
+    { "date": "2025-02-01", "name": "Product B", "value": 400 },
+    { "date": "2025-03-01", "name": "Product C", "value": 500 },
+    { "date": "2025-03-01", "name": "Product D", "value": 200 }
+  ],
+  "chartData": [
+    { "date": "2025-01-01", "name": "Jan", "value": 4000 },
+    { "date": "2025-02-01", "name": "Feb", "value": 3000 },
+    { "date": "2025-03-01", "name": "Mar", "value": 5000 },
+    { "date": "2025-04-01", "name": "Apr", "value": 4000 },
+    { "date": "2025-05-01", "name": "May", "value": 6000 },
+    { "date": "2025-06-01", "name": "Jun", "value": 7000 }
+  ]
+}
