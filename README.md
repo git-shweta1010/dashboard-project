@@ -62,13 +62,21 @@ This project is a responsive, data-driven dashboard built with React, Tailwind C
 ### File Structure
 
 src/
+
 ├── components/
+
 │   ├── StatsCard.jsx
+
 │   ├── LineChart.jsx
+
 │   ├── PieChart.jsx
+
 │   ├── DataTable.jsx
+
 ├── pages/
+
 │   └── Dashboard.jsx
+
 ├── db.json        # JSON Server mock data
 
 ## Available Scripts
@@ -77,6 +85,7 @@ src/
 npm run dev       # Start development server
 npm run build     # Build for production
 npm run serve:api # Start JSON Server mock API
+```
 
 ## Customization
 
